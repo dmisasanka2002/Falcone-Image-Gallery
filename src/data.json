@@ -1,0 +1,215 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "url": "/images/events/1.jpeg",
+      "title": "Tech Conference 2024",
+      "description": "Annual technology conference featuring industry leaders and innovators discussing the future of tech.",
+      "height": "tall"
+    },
+    {
+      "id": 2,
+      "url": "/images/events/2.jpg",
+      "title": "Networking Meetup",
+      "description": "Community gathering bringing together professionals from various tech sectors for networking.",
+      "height": "short"
+    },
+    {
+      "id": 3,
+      "url": "/images/events/3.jpg",
+      "title": "Product Launch Event",
+      "description": "Exciting product unveiling ceremony showcasing our latest innovations and technological breakthroughs.",
+      "height": "medium"
+    },
+    {
+      "id": 4,
+      "url": "/images/events/4.jpg",
+      "title": "Event Highlight 4",
+      "description": "Additional event image 4.",
+      "height": "medium"
+    },
+    {
+      "id": 5,
+      "url": "/images/events/5.jpg",
+      "title": "Event Highlight 5",
+      "description": "Additional event image 5.",
+      "height": "medium"
+    }
+  ],
+  "workshops": [
+    {
+      "id": 6,
+      "url": "/images/workshops/1.jpeg",
+      "title": "Coding Workshop",
+      "description": "Hands-on programming workshop teaching modern web development techniques and best practices.",
+      "height": "medium"
+    },
+    {
+      "id": 7,
+      "url": "/images/workshops/2.jpeg",
+      "title": "Design Thinking Session",
+      "description": "Interactive design workshop focusing on user-centered design principles and creative problem solving.",
+      "height": "tall"
+    },
+    {
+      "id": 8,
+      "url": "/images/workshops/3.jpeg",
+      "title": "Team Building Workshop",
+      "description": "Collaborative team activities designed to enhance communication and strengthen workplace relationships.",
+      "height": "short"
+    },
+    {
+      "id": 9,
+      "url": "/images/workshops/4.jpeg",
+      "title": "Workshop Highlight 4",
+      "description": "Additional workshop image 4.",
+      "height": "medium"
+    },
+    {
+      "id": 10,
+      "url": "/images/workshops/5.jpeg",
+      "title": "Workshop Highlight 5",
+      "description": "Additional workshop image 5.",
+      "height": "medium"
+    },
+    {
+      "id": 11,
+      "url": "/images/workshops/6.jpeg",
+      "title": "Workshop Highlight 6",
+      "description": "Additional workshop image 6.",
+      "height": "medium"
+    },
+    {
+      "id": 12,
+      "url": "/images/workshops/7.jpeg",
+      "title": "Workshop Highlight 7",
+      "description": "Additional workshop image 7.",
+      "height": "medium"
+    },
+    {
+      "id": 13,
+      "url": "/images/workshops/8.jpg",
+      "title": "Workshop Highlight 8",
+      "description": "Additional workshop image 8.",
+      "height": "medium"
+    }
+  ],
+  "races": [
+    {
+      "id": 14,
+      "url": "/images/races/1.jpg",
+      "title": "Championship Victory 2024",
+      "description": "Historic championship win showcasing the team's dedication, precision engineering, and exceptional race strategy.",
+      "height": "tall"
+    },
+    {
+      "id": 15,
+      "url": "/images/races/2.jpg",
+      "title": "Track Day Performance",
+      "description": "High-speed action on the circuit demonstrating the raw power and aerodynamic excellence of our racing machines.",
+      "height": "medium"
+    },
+    {
+      "id": 16,
+      "url": "/images/races/3.jpg",
+      "title": "Night Race Challenge",
+      "description": "Thrilling night race under the lights, testing driver skill and vehicle performance in challenging conditions.",
+      "height": "short"
+    },
+    {
+      "id": 17,
+      "url": "/images/races/4.jpg",
+      "title": "Podium Finish",
+      "description": "Celebrating another podium finish with the team after an intense and competitive race weekend.",
+      "height": "tall"
+    }
+  ],
+  "team": [
+    {
+      "id": 18,
+      "url": "/images/team/1.jpg",
+      "title": "Team Collaboration",
+      "description": "Our diverse team working together on innovative projects and creative solutions.",
+      "height": "medium"
+    },
+    {
+      "id": 19,
+      "url": "/images/team/2.jpg",
+      "title": "Office Culture",
+      "description": "Vibrant workplace environment fostering creativity, innovation, and professional growth.",
+      "height": "short"
+    },
+    {
+      "id": 20,
+      "url": "/images/team/3.jpg",
+      "title": "Team Meeting",
+      "description": "Strategic planning session where our team discusses goals, challenges, and future initiatives.",
+      "height": "tall"
+    },
+    {
+      "id": 21,
+      "url": "/images/team/4.jpg",
+      "title": "Team Highlight 4",
+      "description": "Additional team image 4.",
+      "height": "medium"
+    },
+    {
+      "id": 22,
+      "url": "/images/team/5.jpg",
+      "title": "Team Highlight 5",
+      "description": "Additional team image 5.",
+      "height": "medium"
+    }
+  ],
+  "community": [
+    {
+      "id": 23,
+      "url": "/images/community/1.jpeg",
+      "title": "Community Outreach",
+      "description": "Giving back to the community through volunteer programs and social initiatives.",
+      "height": "tall"
+    },
+    {
+      "id": 24,
+      "url": "/images/community/2.jpeg",
+      "title": "Student Mentorship",
+      "description": "Mentoring the next generation of tech professionals through educational programs.",
+      "height": "medium"
+    },
+    {
+      "id": 25,
+      "url": "/images/community/3.jpg",
+      "title": "Charity Event",
+      "description": "Annual fundraising event supporting local charities and community development projects.",
+      "height": "short"
+    },
+    {
+      "id": 26,
+      "url": "/images/community/4.jpg",
+      "title": "Community Highlight 4",
+      "description": "Additional community image 4.",
+      "height": "medium"
+    },
+    {
+      "id": 27,
+      "url": "/images/community/5.jpg",
+      "title": "Community Highlight 5",
+      "description": "Additional community image 5.",
+      "height": "medium"
+    },
+    {
+      "id": 28,
+      "url": "/images/community/6.jpg",
+      "title": "Community Highlight 6",
+      "description": "Additional community image 6.",
+      "height": "medium"
+    },
+    {
+      "id": 29,
+      "url": "/images/community/7.jpg",
+      "title": "Community Highlight 7",
+      "description": "Additional community image 7.",
+      "height": "medium"
+    }
+  ]
+}
