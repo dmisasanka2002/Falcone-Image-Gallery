@@ -27,6 +27,8 @@ Falcon E Gallery is a single-page React application scaffolded with Vite. It con
 
 While the current project uses in-file static data (in `src/App.jsx`), it is structured so replacing the static data with a remote API or local JSON file is straightforward.
 
+![App Preview](public/preview.png)
+
 ## Features
 
 - Categorized gallery with counts and active-state styling
